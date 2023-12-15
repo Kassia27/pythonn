@@ -1,6 +1,10 @@
 
+<<<<<<< HEAD
 
 # Este programa imprime Hello World
 
 print ("Hello, world!!")
 print("teste do codigo")
+=======
+print("Rita")
+>>>>>>> 07228b79933ae244e75041e50f200b641df9a526
